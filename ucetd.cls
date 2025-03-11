@@ -65,12 +65,12 @@
 			\vspace{0.8in}
 			\MakeUppercase{\@title}\\
 			\vspace{1.0in}
-			A DISSERTATION SUBMITTED TO\\
+			A THESIS SUBMITTED TO\\
 			THE FACULTY OF THE DIVISION OF THE \MakeUppercase{\@division}\\
 			IN CANDIDACY FOR THE DEGREE OF\\
 			\MakeUppercase{\@degree}\\
 			\ \\
-			DEPARTMENT OF \MakeUppercase{\@department}\\
+			\MakeUppercase{\@department}\\
 			\vspace{1.0in}
 			BY\\
 			\MakeUppercase{\@author}\\
